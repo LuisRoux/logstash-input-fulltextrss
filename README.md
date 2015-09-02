@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logstash Plugin
 
 This is a plugin for [Logstash](https://github.com/elasticsearch/logstash).
@@ -84,3 +85,7 @@ Programming is not a required skill. Whatever you've seen about open source and 
 It is more important to the community that you are able to contribute.
 
 For more information about contributing, see the [CONTRIBUTING](https://github.com/elasticsearch/logstash/blob/master/CONTRIBUTING.md) file.
+=======
+# logstash-input-fulltextrss
+Get RSS feeds with the full text version
+>>>>>>> 798a9ab04423c4022546808cae2b3dfb5286ab33
